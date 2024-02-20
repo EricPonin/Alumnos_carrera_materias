@@ -1,6 +1,5 @@
 ﻿namespace ProyectoLaboratorio
-    //Ponin Eric. DNI: 32586510
-{   //Legajo: 903149
+{   
     using System;
     using System.IO;
     using System.Security;
